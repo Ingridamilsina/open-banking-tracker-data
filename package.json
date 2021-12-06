@@ -20,7 +20,7 @@
   "homepage": "https://github.com/apideck-io/open-banking-radar#readme",
   "dependencies": {
     "ajv": "^6.2.1",
-    "algoliasearch": "^3.27.0",
+    "algoliasearch": "^3.35.1",
     "bluebird": "^3.5.1",
     "country-data": "0.0.31",
     "emoji-flags": "^1.2.0",
